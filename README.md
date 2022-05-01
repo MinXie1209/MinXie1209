@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![xyj1209's github stats](https://github-readme-stats.vercel.app/api?username=xyj1209)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![xyj1209's github activity graph](https://activity-graph.herokuapp.com/graph?username=xyj1209&area=true&custom_title=MinXie's Contribution)
