@@ -7,3 +7,4 @@ xyj1209/xyj1209 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![xyj1209's github stats](https://github-readme-stats.vercel.app/api?username=xyj1209)](https://github.com/anuraghazra/github-readme-stats)
