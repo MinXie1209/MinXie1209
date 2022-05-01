@@ -1,6 +1,6 @@
 - 👋 嗨，我是 MinXie 
 - 👉 掘金入口 [「MinXie」](https://juejin.cn/user/377887729924872/posts?sort=popular)
-- 👀 博客入口 [「MinXie」](https://juejin.cn/user/377887729924872/posts?sort=popular)
+- 👀 博客入口 [「MinXie」](https://xyj1209.github.io)
 - 👻 Contributor of Apache/RocketMQ
 - 🌱 热衷于研究源码实现
 
