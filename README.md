@@ -9,7 +9,7 @@ MinXie1209/MinXie1209 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![MinXie1209's github stats](https://github-readme-stats.vercel.app/api?username=MinXie1209&theme=tokyonight)
+![MinXie1209's github stats](https://github-readme-stats.vercel.app/api?username=MinXie1209)
 
 
-![MinXie1209's github activity graph](https://activity-graph.herokuapp.com/graph?username=MinXie1209&theme=react-dark)
+![MinXie1209's github activity graph](https://raw.githubusercontent.com/MinXie1209/MinXie1209/main/assets/github-contribution-grid-snake.svg)
